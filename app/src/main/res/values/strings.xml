@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login_App</string>
+    <string name="prefs_file">com.example.login_app.PREFERENCE_FILE_KEY</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="meals">MEALS</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="googleIcon">googleIcon</string>
+    <string name="user_email">User Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="send_email">Send Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">BACK</string>
+</resources>
